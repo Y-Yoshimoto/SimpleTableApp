@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "aaa",
+        "type": "file"
+    },
+    {
+        "id": 2,
+        "name": "bbb",
+        "type": "file"
+    },
+    {
+        "id": 3,
+        "name": "ccc",
+        "type": "Item"
+    }
+]

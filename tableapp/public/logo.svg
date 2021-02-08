@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="512" height="512" viewBox="0, 0, 512, 512">
+  <g id="レイヤー_1">
+    <g>
+      <path d="M65.156,0 L446.844,0 C482.829,0 512,28.654 512,64 L512,448 C512,483.346 482.829,512 446.844,512 L65.156,512 C29.171,512 0,483.346 0,448 L0,64 C0,28.654 29.171,0 65.156,0 z" fill="#007F13"/>
+      <g>
+        <path d="M65.156,0 L446.844,0 C482.829,0 512,28.654 512,64 L512,448 C512,483.346 482.829,512 446.844,512 L65.156,512 C29.171,512 0,483.346 0,448 L0,64 C0,28.654 29.171,0 65.156,0 z" fill="#007F13"/>
+        <path d="M65.156,0 L446.844,0 C482.829,0 512,28.654 512,64 L512,448 C512,483.346 482.829,512 446.844,512 L65.156,512 C29.171,512 0,483.346 0,448 L0,64 C0,28.654 29.171,0 65.156,0 z" fill-opacity="0" stroke="#CBCBCB" stroke-width="0.2"/>
+      </g>
+    </g>
+    <text transform="matrix(1, 0, 0, 1, 324.105, 502.823)">
+      <tspan x="-209.606" y="-55.5" font-family="Futura-Medium" font-size="200" fill="#FFE436">STA</tspan>
+    </text>
+  </g>
+</svg>
